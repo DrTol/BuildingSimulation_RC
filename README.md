@@ -19,7 +19,7 @@ Please see [Wall_MultiLayer.py](https://github.com/DrTol/BuildingSimulation_RC/b
 You are free to use, modify and distribute the code as long as authorship is properly acknowledged.
 
 ## Acknowledgement
-In memory of my mother Esma Tol and my father Bekir Tol.
+Praise and thank to the Almighty Allah (SWT). In memory of my mother Esma Tol and my father Bekir Tol.
 
 We would like to acknowledge all of the open-source minds in general for their willing of share (as apps or comments/answers in forums), which has encouraged our department to publish our tools developed.
 
