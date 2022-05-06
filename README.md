@@ -24,7 +24,7 @@ Praise and thank to the Almighty Allah (SWT). In memory of my mother Esma Tol an
 We would like to acknowledge all of the open-source minds in general for their willing of share (as apps or comments/answers in forums), which has encouraged our department to publish our tools developed.
 
 ## How2Cite
-Tol, Hİ. XXX. DOI: XXXX. GitHub Repository 2020; XXX
+Tol, Hİ. BuildingSimulation_RC. DOI: 10.5281/zenodo.6523524. GitHub Repository 2022; https://github.com/DrTol/BuildingSimulation_RC
 
 ## References
 - Belić F, Slišković D, Hocenski Ž. Detailed thermodynamic modeling of multi-zone buildings with resistive-capacitive method. Energies (Basel) 2021;14. https://doi.org/10.3390/en14217051
