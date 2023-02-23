@@ -27,6 +27,7 @@ We would like to acknowledge all of the open-source minds in general for their w
 
 ## How2Cite
 Tol Hİ, Madessa HB. Development of a white-box dynamic building thermal model integrated with a heating system. Journal of Building Engineering 2023 (68). https://doi.org/10.1016/j.jobe.2023.106038
+
 Tol, Hİ. BuildingSimulation_RC. DOI: 10.5281/zenodo.6523524. GitHub Repository 2022; https://github.com/DrTol/BuildingSimulation_RC
 
 ## References
