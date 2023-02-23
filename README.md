@@ -1,5 +1,6 @@
 # Building Simulation | Resistance Capacitance Model
 Simple cases highlighting Resistance and Capacitance (RC) model for building simulation in order to obtain the dynamic behaviour of the indoor temperature and building heat demand. 
+Details given in Tol Hİ, Madessa HB. Development of a white-box dynamic building thermal model integrated with a heating system. Journal of Building Engineering 2023 (68). https://doi.org/10.1016/j.jobe.2023.106038 
 
 ## Table of Contents
 - [How2Use](README.md#how2use)
@@ -24,6 +25,7 @@ Praise and thank to the Almighty Allah (SWT). In memory of my mother Esma Tol an
 We would like to acknowledge all of the open-source minds in general for their willing of share (as apps or comments/answers in forums), which has encouraged our department to publish our tools developed.
 
 ## How2Cite
+Tol Hİ, Madessa HB. Development of a white-box dynamic building thermal model integrated with a heating system. Journal of Building Engineering 2023 (68). https://doi.org/10.1016/j.jobe.2023.106038
 Tol, Hİ. BuildingSimulation_RC. DOI: 10.5281/zenodo.6523524. GitHub Repository 2022; https://github.com/DrTol/BuildingSimulation_RC
 
 ## References
